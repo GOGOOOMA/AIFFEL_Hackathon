@@ -1,1 +1,1 @@
-# AIFFEL_Hackathon
+# 🎠AIFFEL Hackathon🎠
