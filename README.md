@@ -27,7 +27,7 @@ TT는 이미지 내부의 텍스트를 다른 내용으로 바꾸어주는 프�
 	- **Synthetic phase** : 합성 이미지를 이용한 훈련으로 Recognizer 부분이 있어서 이미지에서 content를 얼마나 잘 추출해 내는지를 학습 
 		- Synthetic data는 [SynthTIGER](https://github.com/clovaai/synthtiger) 를 이용해서 생성
 	- **Real phase** : 실제 이미지를 이용한 훈련으로 잘려진 이미지를 원본의 스타일과 얼마나 비슷하게 만들어 내는지를 훈련
-		- Real data는 [ICDAR 13](https://paperswithcode.com/dataset/icdar-2013), [ICDAR 15](https://rrc.cvc.uab.es/?ch=4), [ICDAR 17](https://rrc.cvc.uab.es/?ch=8), [ICDAR 19](https://rrc.cvc.uab.es/?ch=15), [COCO-Text](https://vision.cornell.edu/se3/coco-text-2/) 를 사용 
+		- Real data는 [ICDAR 13](https://rrc.cvc.uab.es/?ch=2&com=introduction), [ICDAR 15](https://rrc.cvc.uab.es/?ch=4), [ICDAR 17](https://rrc.cvc.uab.es/?ch=8), [ICDAR 19](https://rrc.cvc.uab.es/?ch=15), [COCO-Text](https://vision.cornell.edu/se3/coco-text-2/) 를 사용 
 - Inference 단계에서는 Encoder와 Generator를 사용
 
 #### [Loss]
