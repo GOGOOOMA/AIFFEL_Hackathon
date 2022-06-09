@@ -34,7 +34,7 @@ TT는 이미지 내부의 텍스트를 다른 내용으로 바꾸어주는 프�
  **![](https://lh4.googleusercontent.com/UZ84WPhCxw1nbWBVBtGDjVY8A-rc5VF7nlBtUo9aqWHlaxNmL2pGEwXvtBmU3jwiQWUMqm1c2z3JYKTWS_-JW90aKVonE_GgsFfR6hscRoEFcXJPVN4f2gwnYHuL-YNz7H88PNnBTZHsYm5y)**
 
 ## 📍 Environment
-> Python 3.9
+> Python 3.9  
 > PyTorch 1.11
 
 
