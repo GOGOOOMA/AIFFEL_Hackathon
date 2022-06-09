@@ -5,9 +5,9 @@
 A technology that converts the text inside an image to another content or language while preserving the style.
 **![](https://lh3.googleusercontent.com/Vrco3d0vuJOMdp5ChitHuu8Sk1fM2h-AYHZU7jd3bUi3gMiASQz13zAenV4OpziPyv2yI02JzUGk5ldoWExdWnorhIloWnriTzwpduoogYgTxDk5ndcU5FH_rbQzLPQmNLg4is1vrR4Z5QsF)**
 ## 📍 Contents
-- [Description](https://github.com/GOGOOOMA/AIFFEL_Hackathon#Description)
-- [Environment](https://github.com/GOGOOOMA/AIFFEL_Hackathon#Environment)
-- [Reference](https://github.com/GOGOOOMA/AIFFEL_Hackathon#Reference)
+- [Description](https://github.com/GOGOOOMA/AIFFEL_Hackathon#-Description)
+- [Environment](https://github.com/GOGOOOMA/AIFFEL_Hackathon#-environment)
+- [Reference](https://github.com/GOGOOOMA/AIFFEL_Hackathon#-Reference)
 
 ## 📍 Description 
 TT는 이미지 내부의 텍스트를 다른 내용으로 바꾸어주는 프로젝트로 단순히 텍스트를 바꾸는 것이 아니라 기존의 텍스트 스타일을 유치한 채 변형 시켜준다.
