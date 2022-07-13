@@ -365,14 +365,3 @@ def _create_mask(image, pad=0):
     out = utils.create_image((width, height))
     out[..., 3] = mask
     return out
-
-
-
-
-
-
-
-
-
-
-
